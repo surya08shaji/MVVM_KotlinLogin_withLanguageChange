@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MvvmKotlinLogin</string>
+    <string name="login_page">Login</string>
+    <string name="e_mail_id">E-mail ID</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="categories">Categories</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="change_language">Change Language</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+</resources>

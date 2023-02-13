@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mvvm Kotlin تسجيل الدخول</string>
+    <string name="login_page">تسجيل الدخول</string>
+    <string name="e_mail_id">عنوان الايميل</string>
+    <string name="password">كلمه السر</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="forgot_password">هل نسيت كلمة السر</string>
+    <string name="categories">فئات</string>
+    <string name="add_to_cart">أضف إلى السلة</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="english">إنجليزي</string>
+    <string name="arabic">عربي</string>
+</resources>
